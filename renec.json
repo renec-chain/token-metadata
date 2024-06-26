@@ -1,0 +1,11 @@
+{
+  "name": "RENEC",
+  "symbol": "RENEC",
+  "description": "RENEC is a decentralized blockchain designed to enable creators to build experiences that provide to the billion users in the Web3 era.",
+  "image": "https://renec-homepage.s3.amazonaws.com/tokens/renec.png",
+  "extensions": {
+    "website": "https://renec.org",
+    "twitter": "https://twitter.com/RenecBlockchain",
+    "telegram": "https://t.me/renecblockchain"
+  }
+}
