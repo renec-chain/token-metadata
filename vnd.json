@@ -1,0 +1,11 @@
+{
+  "name": "VND",
+  "symbol": "VND",
+  "description": "",
+  "image": "https://renec-homepage.s3.amazonaws.com/tokens/vnd.png",
+  "extensions": {
+    "website": "https://renec.org",
+    "twitter": "https://twitter.com/RenecBlockchain",
+    "telegram": "https://t.me/renecblockchain"
+  }
+}
